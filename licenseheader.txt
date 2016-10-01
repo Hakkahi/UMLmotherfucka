@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Projet Poney MVC
+${licensePrefix}Quintard Livaï - Georges Antoine
+<#if licenseLast??>
+${licenseLast}
+</#if>
